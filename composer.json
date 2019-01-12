@@ -1,0 +1,8 @@
+{
+    "name": "roottusk/SlangDetect",
+    "description": "PHP Slang Detection Library for Web Applications",
+    "require": {
+        "php": "^5.3",
+        "another-vendor/package": "1.*"
+    }
+}

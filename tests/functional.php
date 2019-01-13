@@ -12,9 +12,9 @@ global $strTEST;
 
 
 ContainsBadWord($strTEST);
-IsBadWord($strTEST);
-StripBadWords($strTEST);
-StripOneWord($strTEST,"ABCD");
+//IsBadWord($strTEST);
+//StripBadWords($strTEST);
+//StripOneWord($strTEST,"ABCD");
 exit(0);
 
 

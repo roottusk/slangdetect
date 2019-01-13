@@ -1,6 +1,6 @@
 <?php
 
-require("../../lib/init.php");
+require("/home/travis/build/roottusk/slangdetect/lib/init.php");
 
 $strTEST=' !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~';
 

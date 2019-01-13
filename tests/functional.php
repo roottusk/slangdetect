@@ -1,6 +1,6 @@
 <?php
 
-require("/lib/init.php");
+require("../../lib/init.php");
 
 $strTEST=' !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~';
 

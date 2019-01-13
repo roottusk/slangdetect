@@ -1,6 +1,15 @@
 {
     "name": "roottusk/slangdetect",
     "description": "PHP Slang Detection Library for Web Applications",
+    "homepage": "https://ctzlab.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tushar Kulkarni",
+            "email": "root.tusk@gmail.com"
+        }
+    ],
+    "keywords": ["badwords", "slang", "cussword", "detect", "badword detect"],
     "require": {
         "php": "^5.3"
     }

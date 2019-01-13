@@ -12,10 +12,10 @@ global $strTEST;
 
 
 ContainsBadWord($strTEST);
-/*IsBadWord($strTEST);
+IsBadWord($strTEST);
 StripBadWords($strTEST);
-StripOneWord($strTEST,"ABCD");*/
-exit(1);
+StripOneWord($strTEST,"ABCD");
+exit(0);
 
 
 }

@@ -17,6 +17,7 @@ php:
 # Commands to be run before your environment runs.
 
 before_script:
+ - chmod 777 tests/functional.php
 
  - composer self-update
 
@@ -24,7 +25,8 @@ before_script:
 
 # Commands you want to run that will verify your build.
 
-script:php tests/functional.php
+script:
+  - php tests/functional.php
 
 # allow_failures: Allow this build to fail under the specified environments.
 

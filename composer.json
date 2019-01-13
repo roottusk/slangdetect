@@ -14,6 +14,6 @@
     "minimum-stability": "dev",
     "keywords": ["badwords", "slang", "cussword", "detect", "badword detect"],
     "require": {
-        "php": "^5.3"
+        "php": "^7.0"
     }
 }
